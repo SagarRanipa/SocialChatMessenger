@@ -19,14 +19,7 @@
 		F81D83CE26CC506100D64244 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F81D83CC26CC506100D64244 /* LaunchScreen.storyboard */; };
 		F829B35626D3F97F00594C03 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F829B35526D3F97F00594C03 /* SettingsTableViewController.swift */; };
 		F830522E26D14855002C1D51 /* FCollectionReference.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830522D26D14855002C1D51 /* FCollectionReference.swift */; };
-		F834F833274D499700D1B2FC /* image-1.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F832274D499700D1B2FC /* image-1.png */; };
-		F834F837274D49B400D1B2FC /* image-2.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F835274D49B200D1B2FC /* image-2.png */; };
-		F834F838274D49B400D1B2FC /* image-3.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F836274D49B400D1B2FC /* image-3.png */; };
-		F834F83C274D49E700D1B2FC /* image-4.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F83A274D49E600D1B2FC /* image-4.png */; };
-		F834F83D274D49E700D1B2FC /* image-6.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F83B274D49E700D1B2FC /* image-6.png */; };
 		F834F861274D535A00D1B2FC /* FConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = F834F860274D535A00D1B2FC /* FConstant.swift */; };
-		F834F864274D56BA00D1B2FC /* image-8.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F863274D56BA00D1B2FC /* image-8.png */; };
-		F834F867274D56C600D1B2FC /* image-9.png in Resources */ = {isa = PBXBuildFile; fileRef = F834F866274D56C600D1B2FC /* image-9.png */; };
 		F8429F9326D13DF700A67AEC /* FirebaseUserListener.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8429F9226D13DF700A67AEC /* FirebaseUserListener.swift */; };
 		F86435FE26ECEE9200769141 /* PushNotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F86435FD26ECEE9200769141 /* PushNotificationService.swift */; };
 		F864BD4626EA5192008546BF /* ChannelDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F864BD4526EA5192008546BF /* ChannelDetailTableViewController.swift */; };
@@ -93,14 +86,7 @@
 		F81D83CF26CC506100D64244 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F829B35526D3F97F00594C03 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
 		F830522D26D14855002C1D51 /* FCollectionReference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FCollectionReference.swift; sourceTree = "<group>"; };
-		F834F832274D499700D1B2FC /* image-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-1.png"; sourceTree = "<group>"; };
-		F834F835274D49B200D1B2FC /* image-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-2.png"; sourceTree = "<group>"; };
-		F834F836274D49B400D1B2FC /* image-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-3.png"; sourceTree = "<group>"; };
-		F834F83A274D49E600D1B2FC /* image-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-4.png"; sourceTree = "<group>"; };
-		F834F83B274D49E700D1B2FC /* image-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-6.png"; sourceTree = "<group>"; };
 		F834F860274D535A00D1B2FC /* FConstant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FConstant.swift; sourceTree = "<group>"; };
-		F834F863274D56BA00D1B2FC /* image-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-8.png"; sourceTree = "<group>"; };
-		F834F866274D56C600D1B2FC /* image-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-9.png"; sourceTree = "<group>"; };
 		F8429F9226D13DF700A67AEC /* FirebaseUserListener.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseUserListener.swift; sourceTree = "<group>"; };
 		F86435FD26ECEE9200769141 /* PushNotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushNotificationService.swift; sourceTree = "<group>"; };
 		F864BD4526EA5192008546BF /* ChannelDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelDetailTableViewController.swift; sourceTree = "<group>"; };
@@ -234,7 +220,6 @@
 			isa = PBXGroup;
 			children = (
 				F834F860274D535A00D1B2FC /* FConstant.swift */,
-				F834F827274D47E000D1B2FC /* Screenshots */,
 				F8F231DE26EB998500FAE497 /* SocialChatMessenger.entitlements */,
 				F81D83C126CC506000D64244 /* AppDelegate.swift */,
 				F81D83C326CC506000D64244 /* SceneDelegate.swift */,
@@ -253,20 +238,6 @@
 				F8CD4BAC26CD42B400C082D1 /* GoogleService-Info.plist */,
 			);
 			path = SocialChatMessenger;
-			sourceTree = "<group>";
-		};
-		F834F827274D47E000D1B2FC /* Screenshots */ = {
-			isa = PBXGroup;
-			children = (
-				F834F835274D49B200D1B2FC /* image-2.png */,
-				F834F836274D49B400D1B2FC /* image-3.png */,
-				F834F83A274D49E600D1B2FC /* image-4.png */,
-				F834F866274D56C600D1B2FC /* image-9.png */,
-				F834F863274D56BA00D1B2FC /* image-8.png */,
-				F834F83B274D49E700D1B2FC /* image-6.png */,
-				F834F832274D499700D1B2FC /* image-1.png */,
-			);
-			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		F8429F9126D13D8B00A67AEC /* FirebaseHelpers */ = {
@@ -428,16 +399,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F834F833274D499700D1B2FC /* image-1.png in Resources */,
-				F834F867274D56C600D1B2FC /* image-9.png in Resources */,
 				F81D83CE26CC506100D64244 /* LaunchScreen.storyboard in Resources */,
-				F834F83D274D49E700D1B2FC /* image-6.png in Resources */,
-				F834F83C274D49E700D1B2FC /* image-4.png in Resources */,
-				F834F837274D49B400D1B2FC /* image-2.png in Resources */,
 				F8CD4BAD26CD42B500C082D1 /* GoogleService-Info.plist in Resources */,
-				F834F838274D49B400D1B2FC /* image-3.png in Resources */,
 				F81D83CB26CC506100D64244 /* Assets.xcassets in Resources */,
-				F834F864274D56BA00D1B2FC /* image-8.png in Resources */,
 				F81D83C926CC506000D64244 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
